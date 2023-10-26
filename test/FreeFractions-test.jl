@@ -1,0 +1,8 @@
+include("AAA-test.jl")
+include("FreeField-test.jl")
+include("FreeFraction-test.jl")
+include("GenericFreeFraction-test.jl")
+include("GenericMinimization-test.jl")
+include("IndependenceMinimization-test.jl")
+include("MonomialFreeFraction-test.jl")
+include("RegularMinimization-test.jl")
